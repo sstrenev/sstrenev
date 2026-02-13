@@ -29,6 +29,10 @@ Farcaster frame enabling cross-chain DAO voting.
 #### [Yield For Good](https://ethglobal.com/showcase/yield-for-good-rpi3b) - ETHGlobal Istanbul
 Platform that allows users to turn their crypto farming rewards into donations for good causes.
 
+### Certifications
+
+- Certified Ethereum Developer by [Consensys](https://courses.consensys.net/certificates/gcbxa9oehw)
+
 ### Social
 - [Immunefi Profile](https://immunefi.com/profile/hustling0x)
 - [Twitter/X](https://x.com/sstrenev)
