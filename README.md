@@ -14,8 +14,6 @@ With 12 years in software engineering and 5 years in Blockchain, I specialize in
 ### Bug Bounty Awards
 - 1 Critical severity issue rewarded for Yeet audit contest on Immunefi
 - 1 Medium severity issue rewarded for ApeCoin Staking on Ethereum Mainnet
-- 1 High severity duplicate issue identified for BendDAO
-- 1 High severity duplicate issue identified for Extra Finance
 
 ### Hackathon Projects
 
@@ -37,7 +35,7 @@ Platform that allows users to turn their crypto farming rewards into donations f
 - Certified Ethereum Developer by [Consensys](https://courses.consensys.net/certificates/gcbxa9oehw)
 
 ### Social
-- [Immunefi Profile](https://immunefi.com/profile/hustling0x)
+- [Immunefi](https://immunefi.com/profile/hustling0x)
 - [Twitter/X](https://x.com/sstrenev)
 - [LinkedIn](https://www.linkedin.com/in/sstrenev)
 - [Telegram](https://t.me/sstrenev)
