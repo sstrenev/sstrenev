@@ -1,7 +1,7 @@
 ### Hi there, it's Stan 👋
 
 ### About Me
-With 12 years in software engineering and 5 years in Blockchain, I specialize in DeFi smart contract development and DeFi integrations. I’ve led projects processing over $300M in stablecoin transaction volume with zero exploits across all deployed contracts. In my spare time, I am an active security researcher, having identified critical and high-severity issues on bug bounty platforms.
+With 12 years in software engineering and 6+ years in Blockchain, I specialize in DeFi smart contract development and DeFi integrations. I’ve led projects processing over $300M in stablecoin transaction volume with zero exploits across all deployed contracts. In my spare time, I am an active security researcher, having identified critical and high-severity issues on bug bounty platforms.
 
 ### Projects
 - [Legion](https://legion.cc) - Architected and deployed ERC20 token sales, vesting, and distribution contracts processing $300M+ in stablecoin transaction volume
